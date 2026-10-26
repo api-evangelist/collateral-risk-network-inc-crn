@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Collateral Risk Network, Inc. (CRN) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.collateralrisk.org/
+Collateral Risk Network, Inc. (CRN) is a nonprofit organization dedicated to advancing sound collateral risk management practices within the housing finance industry. It brings together lenders, investors, rating agencies, private mortgage insurers, appraisers, technology providers, data providers, and regulators to promote transparency, integrity, and independence. Through quarterly meetings, educational resources, and a collaborative network of thought leaders, CRN aims to foster a safe and sound housing finance system by sharing expertise, influencing policy, and recognizing industry innovators.
+
+**Areas:** Company · Finance · RiskManagement · Nonprofit · Housing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.collateralrisk.org/)
+- [Documentation](https://collateralrisk.org/about/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/collateral-risk-network-inc-crn/](https://apis.io/providers/collateral-risk-network-inc-crn/).
